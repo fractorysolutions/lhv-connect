@@ -1,4 +1,5 @@
 # LHV CONNECT API package for Laravel 6+
+A fork of [mihkelallorg/lhv-connect](https://github.com/mihkelallorg/lhv-connect).
 
 ## Quickstart
 
