@@ -3,7 +3,7 @@ A fork of [mihkelallorg/lhv-connect](https://github.com/mihkelallorg/lhv-connect
 
 ## Quickstart
 
-    $ composer require mihkullorg/lhv-connect
+    $ composer require fractorysolutions/lhv-connect
 
 NB! Service provider Mihkullorg\LhvConnect\LaravelLhvConnectServiceProvider::class is automatically registered.
 
