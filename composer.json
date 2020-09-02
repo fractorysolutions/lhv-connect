@@ -1,14 +1,20 @@
 {
-    "name": "mihkullorg/lhv-connect",
-    "description": "LHV bank's CONNECT service for Laravel 6",
+    "name": "fractorysolutions/lhv-connect",
+    "description": "LHV bank's CONNECT service for Laravel 6+, fork of mihkullorg/lhv-connect",
     "keywords": ["lhv", "lhv-connect", "connect", "lhv-bank", "bank"],
-    "homepage": "https://github.com/mihkullorg/lhv-connect",
+    "homepage": "https://github.com/fractorysolutions/lhv-connect",
     "license": "MIT",
     "authors": [{
         "name": "Mihkel Allorg",
         "email": "mihkel.allorg@gmail.com",
         "role": "Developer"
-    }],
+    },
+    {
+        "name": "Rao Zvorovski",
+        "email": "rao@fractory.com",
+        "role": "Developer"
+    }
+    ],
     "require": {
         "php": "^7.2.5",
         "illuminate/config": "^6.0 || ^7.0",
